@@ -1,0 +1,14 @@
+@import url("//fonts.googleapis.com/css?family=Lobster|Cabin:400,700");
+
+h4 {
+  font-family: 'Lobster', cursive;
+  font-weight: 500;
+  line-height: 1.1;
+  color: #032B37;
+}
+
+.shiny-text-output {
+    background-color:#032B37;
+    color: white; 
+    font-size:60%;
+}
